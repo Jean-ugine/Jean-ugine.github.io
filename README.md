@@ -15,7 +15,7 @@ Welcome to my developer profile! I'm learning web development and building my sk
 - [Week 1 HTML Project](https://github.com/Jean-ugine/iyf-week-1)
 
 ## Markdown Practice
-_Add the link to my markdown-practice.md file here._
+https://github.com/Jean-ugine/Jean-ugine/blob/main/markdown-practice.md
 
 ## Team Repository
 _Add the link to my team repository here._
